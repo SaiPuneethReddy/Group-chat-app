@@ -1,0 +1,47 @@
+@charset "ISO-8859-1";
+#main_chat
+{max-width:800px;
+    background-color:mediumaquamarine;
+    margin:5px auto;
+   padding:10px 20px; 
+}
+#screen
+{
+max-width: 600px;
+margin:15px auto;
+height:450px;
+background-color:white;
+overflow:auto;
+}
+#output p
+{
+    padding:5px 20px; 
+    margin:5px;
+}
+#feedback p
+{color: #aaa;
+    padding:5px 20px; 
+    margin:5px;
+    
+}
+input{
+    padding:5px;
+display:block;
+width:100%;
+
+}
+button
+{
+    padding:5px 9px;
+    display:block;
+    width:100%;
+}
+#hello
+{
+    display:inline;
+}
+#handler
+{
+    
+    display:inline;
+}
